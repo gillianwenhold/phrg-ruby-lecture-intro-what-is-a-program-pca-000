@@ -58,5 +58,9 @@ That last line, `lib/a_ruby_program.rb:23:in '<main>': undefined local variable 
 
 We'll soon learn all about reading error messages.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-ruby-lecture-intro-what-is-a-program/pulls) or [pull-request](https://github.com/learn-co-curriculum/phrg-ruby-lecture-intro-what-is-a-program/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-lecture-intro-what-is-a-program'>What is a Program?</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG What is a Program?</p>
